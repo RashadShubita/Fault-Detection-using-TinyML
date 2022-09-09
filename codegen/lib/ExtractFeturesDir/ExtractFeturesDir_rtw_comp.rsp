@@ -1,0 +1,15 @@
+-IC:/Users/shubi/Documents/MATLAB/AudioLabeler/codegen/lib/ExtractFeturesDir
+-IC:/Users/shubi/Documents/MATLAB/AudioLabeler
+-IC:/ProgramData/MATLAB/SupportPackages/R2019a/toolbox/target/supportpackages/armcortexmbase/scheduler/include
+-IC:/Program\ Files/Polyspace/R2019a/rtw/c/src/ext_mode/serial
+-IC:/ST/en.stsw-stm32068/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2019a/3P.instrset/cmsis.instrset/CMSIS/Include
+-IC:/ST/en.stsw-stm32068/STM32F4-Discovery_FW_V1.1.0/Project/Peripheral_Examples/SysTick
+-IC:/ST/en.stsw-stm32068/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/inc
+-IC:/ProgramData/MATLAB/SupportPackages/R2019a/toolbox/target/supportpackages/stm32f4discovery/include
+-IC:/ProgramData/MATLAB/SupportPackages/R2019a/toolbox/target/supportpackages/armcortexmbase/cmsis_rtos_rtx/include
+-IC:/Program\ Files/Polyspace/R2019a/extern/include
+-IC:/Program\ Files/Polyspace/R2019a/simulink/include
+-IC:/Program\ Files/Polyspace/R2019a/rtw/c/src
+-IC:/Program\ Files/Polyspace/R2019a/rtw/c/src/ext_mode/common
+-IC:/Program\ Files/Polyspace/R2019a/rtw/c/ert
