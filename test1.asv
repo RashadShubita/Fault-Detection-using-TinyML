@@ -1,0 +1,13 @@
+clear 
+clc
+close all
+
+[Fault_1_Data,FS(1)]  = audioread('M1_F2_S1.flac');
+
+t = linspace(0, length(Fault_1_Data)/FS(1), length(Fault_1_Data));
+
+figure;
+plot(t,Fault_1_Data);
+title('Time Domain')
+xlable('time')
+xlable('ampl')
